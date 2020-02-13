@@ -35,6 +35,7 @@ function solve(){
 		catch (e) {
 			if (e instanceof SyntaxError) {
 				document.getElementById("result").value = "Error";
+				changedAfterSolve = 0;
 			}
 		}
 	}

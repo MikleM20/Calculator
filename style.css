@@ -27,7 +27,7 @@ td{
     width:auto;
 }
 input[type="text"] {
-    background-color: white;
+    background-color: #FFF;
     border: solid black 2px;
     width: 100%;
     border-radius: 5px;
