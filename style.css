@@ -6,14 +6,15 @@ input[type="button"]{
     border: solid black 2px;
     width: 100%;
     border-radius: 5px;
+    background-color: #F0F0F0;
 }
 
 #calc {
     max-width: 600px;
     margin: 5px auto;
-    background-color: cornflowerblue;
+    background-color: #6495ed;
     border-radius: 5px;
-    padding:5px;
+    padding: 5px;
 }
 table {
     border-collapse;
