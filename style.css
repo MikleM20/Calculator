@@ -1,0 +1,35 @@
+body {
+    font-size: 3vw;
+}
+input[type="button"]{
+    color: black;
+    border: solid black 2px;
+    width: 100%;
+    border-radius: 5px;
+}
+
+#calc {
+    max-width: 600px;
+    margin: 5px auto;
+    background-color: cornflowerblue;
+    border-radius: 5px;
+    padding:5px;
+}
+table {
+    border-collapse;
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    table-layout:fixed;
+}
+td{
+    width:auto;
+}
+input[type="text"] {
+    background-color: white;
+    border: solid black 2px;
+    width: 100%;
+    border-radius: 5px;
+    text-align:end;
+}
+
