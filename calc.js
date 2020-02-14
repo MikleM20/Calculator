@@ -1,6 +1,5 @@
-
-//function that display value
 let changedAfterSolve = 0;
+//Display number to index
 function disNum(val){
 if(changedAfterSolve == 0){
 	document.getElementById("input").value="";
@@ -11,7 +10,7 @@ else{
 	document.getElementById("input").value+=val;
 	}
 }
-
+//Display Operators to index
 function disOp(val){
 document.getElementById("input").value+=val;
 changedAfterSolve = 1;
@@ -46,7 +45,7 @@ function clr(){
 	document.getElementById("input").value = "";
 	document.getElementById("result").value = "";
 }
-
+//Backspace for input
 function bkspc(){
 	document.getElementById("input").value = document.getElementById("input").value.slice(0, document.getElementById("input").value.length - 1);
 	changedAfterSolve = 1;

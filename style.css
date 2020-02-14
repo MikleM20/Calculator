@@ -1,6 +1,7 @@
 body {
     font-size: 3vw;
 }
+
 input[type="button"]{
     color: black;
     border: solid black 2px;
@@ -16,6 +17,7 @@ input[type="button"]{
     border-radius: 5px;
     padding: 5px;
 }
+
 table {
     border-collapse;
     width: 100%;
@@ -23,9 +25,11 @@ table {
     border-radius: 5px;
     table-layout:fixed;
 }
+
 td{
     width:auto;
 }
+
 input[type="text"] {
     background-color: #FFF;
     border: solid black 2px;
