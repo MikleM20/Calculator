@@ -1,0 +1,10 @@
+Name: Michael Manila
+UCID/Student ID : 30019562
+Tutorial # : 04
+
+Site URL: https://miklem20.github.io/Calculator/
+
+Site was tested with google chrome and firefox and safari for mobile.
+
+To use calculator go to link or index.html if you want to use it locally.
+	- It will use buttons but not input from keyboard.
